@@ -4,19 +4,19 @@ Bitfinex code challenge.
 ## Brief
 This project has been created based on assessment requirements. Also I spent 2-3 hours to figure out what is wrong with the grenache-grape module which I describe my issue at the end of file.
 Implemented sections:
-[x] Client local orderbook.  
-[x] Submitting orders on local orderbook and/or distributed orderbook.  
-[x] Getting complete result of local and/or distributed orderbook.  
-[x] A choice to add remaining of an order from distributed orderbook trade to local orderbook or not.  
-[x] Support multi currency and multi pair.  
-[x] Support Limit and Market orders.  
-[x] Support multi server.  
-[x] Solved JS decimal issues.  
-[x] Solved race conditions for trading.  
-[x] Try to maximize the performance for matching trades.  
-[x] Using grenache-grape module.  
-[x] Confinable params.  
-[x] Eslint.  
+ [x] Client local orderbook.  
+ [x] Submitting orders on local orderbook and/or distributed orderbook.  
+ [x] Getting complete result of local and/or distributed orderbook.  
+ [x] A choice to add remaining of an order from distributed orderbook trade to local orderbook or not.  
+ [x] Support multi currency and multi pair.  
+ [x] Support Limit and Market orders.  
+ [x] Support multi server.  
+ [x] Solved JS decimal issues.  
+ [x] Solved race conditions for trading.  
+ [x] Try to maximize the performance for matching trades.  
+ [x] Using grenache-grape module.  
+ [x] Confinable params.  
+ [x] Eslint.  
 
 ## Installation
 
