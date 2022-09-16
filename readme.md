@@ -2,8 +2,8 @@
 Bitfinex code challenge.
 
 ## Brief
-This project has been created based on assessment requirements. Also I spent 2-3 hours to figure out what is wrong with the grenache-grape module which I describe my issue at the end of file.
-Implemented sections:
+This project has been created based on assessment requirements. Also I spent 2-3 hours to figure out what is wrong with the grenache-grape module which I describe my issue at the end of file.  
+Implemented sections:  
  [x] Client local orderbook.  
  [x] Submitting orders on local orderbook and/or distributed orderbook.  
  [x] Getting complete result of local and/or distributed orderbook.  
